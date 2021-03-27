@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- ==========================================================================\
+|
+|   To learn how to make your own language parser, please check the following
+|   link:
+|       https://npp-user-manual.org/docs/function-list/
+|
+\=========================================================================== -->
+<NotepadPlus>
+	<functionList>
+			<!-- ===================================================== [ Atari Action! ] -->
+			<!-- Atari Action! v1.0                                                      -->
+
+			<parser
+				displayName="Atari Action!"
+				id         ="Atari Action!"
+			>
+
+				<function
+					mainExpr="\s\K(proc|func|;!)\x20.+?(?=\n)"
+				>
+					<functionName>
+						<funcNameExpr expr=".*" />
+					</functionName>
+				</function>
+
+			</parser>
+	</functionList>
+</NotepadPlus>
