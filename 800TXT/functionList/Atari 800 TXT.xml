@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- ==========================================================================\
+|
+|   To learn how to make your own language parser, please check the following
+|   link:
+|       https://npp-user-manual.org/docs/function-list/
+|
+\=========================================================================== -->
+<NotepadPlus>
+	<functionList>
+			<!-- ===================================================== [ Atari 800 TXT ] -->
+			<!-- Atari 800 TXT v1.0                                                      -->
+
+			<parser
+				displayName="Atari 800 TXT"
+				id         ="Atari 800 TXT"
+			>
+
+				<function
+					mainExpr="\s(id=|;!)\K.+?(?=\n)"
+				>
+					<functionName>
+						<funcNameExpr expr=".*" />
+					</functionName>
+				</function>
+
+			</parser>
+	</functionList>
+</NotepadPlus>
