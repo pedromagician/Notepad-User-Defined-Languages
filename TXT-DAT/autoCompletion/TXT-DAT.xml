@@ -1,0 +1,1220 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<NotepadPlus>
+	<AutoComplete language="TXT-DAT">
+    <Environment ignoreCase="yes" startFunc="?" stopFunc=" " paramSeparator="," terminal=";" additionalWordChar="#" />
+		<KeyWord name="showKeyCode" />
+		<KeyWord name="fullScreen" />
+		<KeyWord name="monitor" />
+		<KeyWord name="windowWidth" />
+		<KeyWord name="windowHeight" />
+		<KeyWord name="bpp" />
+		<KeyWord name="width" />
+		<KeyWord name="height" />
+		<KeyWord name="font" />
+		<KeyWord name="fontSize" />
+    <KeyWord name="complex" />
+		<KeyWord name="fontTypeSize" />
+		<KeyWord name="fontInfoTypeSize" />
+		<KeyWord name="fontCommandTypeSize" />
+		<KeyWord name="fontInfo" />
+		<KeyWord name="fontInfoSize" />
+		<KeyWord name="fontCommand" />
+		<KeyWord name="fontCommandsize" />
+		<KeyWord name="accelerated" />
+		<KeyWord name="synchronizedRefreshRate" />
+		<KeyWord name="false" />
+		<KeyWord name="true" />
+		<KeyWord name="null" />
+		<KeyWord name="maxFps" />
+		<KeyWord name="updateTexture" />
+		<KeyWord name="sfx" />
+		<KeyWord name="volume" />
+		<KeyWord name="default" />
+		<KeyWord name="tabKey" />
+		<KeyWord name="activeColor" />
+		<KeyWord name="switchYZ" />
+		<KeyWord name="prompt" />
+		<KeyWord name="showPath" />
+		<KeyWord name="gameFile" />
+		<KeyWord name="debug" />
+		<KeyWord name="debugexec" />
+		<KeyWord name="editor" />
+		<KeyWord name="logFile" />
+		<KeyWord name="consoleMonitor" />
+		<KeyWord name="backwardCompatibility" />
+		<KeyWord name="systemVideoPlayer" />
+		<KeyWord name="enableProportionalFont" />
+		<KeyWord name="privateConfig" />
+		<KeyWord name="getKeyText" />
+		<KeyWord name="listingOfDirections" />
+		<KeyWord name="sortObjectsAlphabetical" />
+		<KeyWord name="infoLine" />
+		<KeyWord name="commandLine" />
+		<KeyWord name="padding" />
+		<KeyWord name="paddingInfoLine" />
+		<KeyWord name="paddingCommandLine" />
+		<KeyWord name="automaticallyScrollLinesUnderPercent" />
+		<KeyWord name="reinitScreen" />
+		<KeyWord name="cursorType" />
+		<KeyWord name="cursorSpeed" />
+		<KeyWord name="cursor" />
+		<KeyWord name="cursorWidth" />
+		<KeyWord name="cursorHeight" />
+		<KeyWord name="cursorBlending" />
+		<KeyWord name="cursorShowChar" />
+		<KeyWord name="cursorBlink" />
+		<KeyWord name="cursorBlinkWidth" />
+		<KeyWord name="cursorBlinkHeight" />
+		<KeyWord name="cursorBlinkBlending" />
+		<KeyWord name="cursorBlinkShowChar" />
+		<KeyWord name="cursorChar" />
+		<KeyWord name="cursorCharBlink" />
+		<KeyWord name="cursorInput" />
+		<KeyWord name="cursorInputChar" />
+		<KeyWord name="cursorInputBlink" />
+		<KeyWord name="cursorInputCharBlink" />
+		<KeyWord name="fontStyle" />
+		<KeyWord name="fontInfoStyle" />
+		<KeyWord name="bold" />
+		<KeyWord name="strikethrough" />
+		<KeyWord name="normal" />
+		<KeyWord name="italic" />
+		<KeyWord name="fontCommandStyle" />
+		<KeyWord name="underline" />
+		<KeyWord name="fontCorrectionOfWidth" />
+		<KeyWord name="fontCorrectionOfHeight" />
+		<KeyWord name="fontInfoCorrectionOfWidth" />
+		<KeyWord name="fontInfoCorrectionOfHeight" />
+		<KeyWord name="fontCommandCorrectionOfWidth" />
+		<KeyWord name="fontCommandCorrectionOfHeight" />
+		<KeyWord name="modeOfListObjects" />
+		<KeyWord name="modeOfDescribingRoom" />
+		<KeyWord name="modeOfDescribingRoomAllowedDirections" />
+		<KeyWord name="modeOfDescribingYourMovement" />
+		<KeyWord name="rulesForShowSituation" />
+		<KeyWord name="normalWithoutWrongDirection" />
+		<KeyWord name="rulesForYouSeeHere" />
+		<KeyWord name="doNotRefresh" />
+		<KeyWord name="loaderPic" />
+		<KeyWord name="launcher" />
+		<KeyWord name="TXT" />
+		<KeyWord name="version" />
+		<KeyWord name="setup" />
+		<KeyWord name="gameSetup" />
+		<KeyWord name="appName" />
+		<KeyWord name="appAlpha" />
+		<KeyWord name="appBeta" />
+		<KeyWord name="appRC" />
+		<KeyWord name="appReleaseCandidate" />
+		<KeyWord name="appDemo" />
+		<KeyWord name="appRelease" />
+		<KeyWord name="icon" />
+		<KeyWord name="author" />
+		<KeyWord name="appVersion" />
+		<KeyWord name="separator" />
+		<KeyWord name="yourPosition" />
+		<KeyWord name="actionHelp" />
+		<KeyWord name="actionWait" />
+		<KeyWord name="wait" />
+		<KeyWord name="waitFail" />
+		<KeyWord name="actionStart" />
+		<KeyWord name="actionBeforeSave" />
+		<KeyWord name="actionLoad" />
+		<KeyWord name="actionCommand" />
+		<KeyWord name="actionMove" />
+		<KeyWord name="actionEnter" />
+		<KeyWord name="actionMoveVerify" />
+		<KeyWord name="timeInterval" />
+		<KeyWord name="actionTime" />
+		<KeyWord name="yourCapacityCount" />
+		<KeyWord name="yourCapacityBulk" />
+		<KeyWord name="yourCapacityWeight" />
+		<KeyWord name="maxExecutionTime" />
+		<KeyWord name="errorMaxExecutionTime" />
+		<KeyWord name="maxLoopTime" />
+		<KeyWord name="errorMaxLoopTime" />
+		<KeyWord name="maxLoopCount" />
+		<KeyWord name="errorMaxLoopCount" />
+		<KeyWord name="keySound" />
+		<KeyWord name="commands" />
+		<KeyWord name="help" />
+		<KeyWord name="dictionary" />
+		<KeyWord name="mute" />
+		<KeyWord name="show" />
+		<KeyWord name="enabled" />
+		<KeyWord name="dontMove" />
+		<KeyWord name="cls" />
+		<KeyWord name="enableScrollingInfoLine" />
+		<KeyWord name="disableScrollingInfoLine" />
+		<KeyWord name="take" />
+		<KeyWord name="put" />
+		<KeyWord name="use" />
+		<KeyWord name="hit" />
+		<KeyWord name="touch" />
+		<KeyWord name="press" />
+		<KeyWord name="smell" />
+		<KeyWord name="listen" />
+		<KeyWord name="eat" />
+		<KeyWord name="drink" />
+		<KeyWord name="dress" />
+		<KeyWord name="undress" />
+		<KeyWord name="open" />
+		<KeyWord name="close" />
+		<KeyWord name="lock" />
+		<KeyWord name="unlock" />
+		<KeyWord name="on" />
+		<KeyWord name="off" />
+		<KeyWord name="push" />
+		<KeyWord name="pull" />
+		<KeyWord name="read" />
+		<KeyWord name="give" />
+		<KeyWord name="talk" />
+		<KeyWord name="ask" />
+		<KeyWord name="tell" />
+		<KeyWord name="examine" />
+		<KeyWord name="sit" />
+		<KeyWord name="inv" />
+		<KeyWord name="north" />
+		<KeyWord name="east" />
+		<KeyWord name="south" />
+		<KeyWord name="west" />
+		<KeyWord name="up" />
+		<KeyWord name="down" />
+		<KeyWord name="in" />
+		<KeyWord name="out" />
+		<KeyWord name="save" />
+		<KeyWord name="load" />
+		<KeyWord name="dir" />
+		<KeyWord name="end" />
+		<KeyWord name="restart" />
+		<KeyWord name="newCommand" />
+		<KeyWord name="printUnknownPrimaryObjects" />
+		<KeyWord name="printUnknownSecondaryObjects" />
+		<KeyWord name="sysText" />
+		<KeyWord name="dot" />
+		<KeyWord name="pronoun" />
+		<KeyWord name="all" />
+		<KeyWord name="emptyWords" />
+		<KeyWord name="locationInFrontOf" />
+		<KeyWord name="locationBeside" />
+		<KeyWord name="locationUnder" />
+		<KeyWord name="locationOnTopOf" />
+		<KeyWord name="locationInside" />
+		<KeyWord name="locationBetween" />
+    <KeyWord name="locationBehind" />
+		<KeyWord name="go" />
+		<KeyWord name="impasse" />
+		<KeyWord name="badDirection" />
+		<KeyWord name="goNorth" />
+		<KeyWord name="goEast" />
+		<KeyWord name="goSouth" />
+		<KeyWord name="goWest" />
+		<KeyWord name="goUp" />
+		<KeyWord name="goDown" />
+		<KeyWord name="goIn" />
+		<KeyWord name="goOut" />
+		<KeyWord name="see" />
+		<KeyWord name="seeNothingHere" />
+		<KeyWord name="inv" />
+		<KeyWord name="have" />
+		<KeyWord name="wearing" />
+		<KeyWord name="haveNothing" />
+		<KeyWord name="unknownObject" />
+		<KeyWord name="notAvailable" />
+		<KeyWord name="putDontUnderstand" />
+		<KeyWord name="putInsert" />
+		<KeyWord name="putFailNotYou" />
+		<KeyWord name="putFailNotItself" />
+		<KeyWord name="putFailSameSpace" />
+		<KeyWord name="putFailUnknownDestination" />
+		<KeyWord name="putFailDestination" />
+		<KeyWord name="putFailContainerIsClose" />
+		<KeyWord name="putFailBulk" />
+		<KeyWord name="putFailWeight" />
+		<KeyWord name="putFailCount" />
+		<KeyWord name="putFailNotAllowed" />
+		<KeyWord name="putFailNotHere" />
+		<KeyWord name="putFail" />
+		<KeyWord name="putFailWearing" />
+		<KeyWord name="putVerifyFail" />
+		<KeyWord name="insertVerifyFail" />
+		<KeyWord name="takeDontUnderstand" />
+		<KeyWord name="takeNothingHere" />
+		<KeyWord name="takePick" />
+		<KeyWord name="takeFail" />
+		<KeyWord name="takeVerifyFail" />
+		<KeyWord name="bagisFullCount" />
+		<KeyWord name="bagisFullWeight" />
+		<KeyWord name="bagisFullBulk" />
+		<KeyWord name="useDontUnderstand" />
+		<KeyWord name="useFail" />
+		<KeyWord name="useVerifyFail" />
+		<KeyWord name="hitFail" />
+		<KeyWord name="hitVerifyFail" />
+		<KeyWord name="touchDontUnderstand" />
+		<KeyWord name="touchFail" />
+		<KeyWord name="touchVerifyFail" />
+		<KeyWord name="pressDontUnderstand" />
+		<KeyWord name="pressFail" />
+		<KeyWord name="pressVerifyFail" />
+		<KeyWord name="smellDontUnderstand" />
+		<KeyWord name="smellFail" />
+		<KeyWord name="smellVerifyFail" />
+		<KeyWord name="listenDontUnderstand" />
+		<KeyWord name="listenFail" />
+		<KeyWord name="listenVerifyFail" />
+		<KeyWord name="eatDontUnderstand" />
+		<KeyWord name="eatFail" />
+		<KeyWord name="eatVerifyFail" />
+		<KeyWord name="note" />
+		<KeyWord name="textId" />
+		<KeyWord name="roomId" />
+		<KeyWord name="objectId" />
+		<KeyWord name="threadId" />
+		<KeyWord name="actionId" />
+		<KeyWord name="varId" />
+		<KeyWord name="randomId" />
+		<KeyWord name="itemId" />
+		<KeyWord name="npcId" />
+		<KeyWord name="structId" />
+		<KeyWord name="color" />
+		<KeyWord name="macro" />
+		<KeyWord name="room" />
+		<KeyWord name="object" />
+		<KeyWord name="thread" />
+		<KeyWord name="this" />
+		<KeyWord name="break" />
+		<KeyWord name="continue" />
+		<KeyWord name="return" />
+		<KeyWord name="run" />
+		<KeyWord name="requiresVersion164" />
+		<KeyWord name="requiresVersion165" />
+		<KeyWord name="requiresVersion170" />
+		<KeyWord name="you" />
+		<KeyWord name="here" />
+		<KeyWord name="all" />
+		<KeyWord name="hereWithYou" />
+		<KeyWord name="var" />
+		<KeyWord name="globalVar" />
+		<KeyWord name="deleteVar" />
+		<KeyWord name="localVar" />
+		<KeyWord name="identifyVar" />
+		<KeyWord name="printLn" />
+		<KeyWord name="print" />
+		<KeyWord name="text" />
+		<KeyWord name="textLn" />
+		<KeyWord name="center" />
+		<KeyWord name="printRight" />
+		<KeyWord name="locate" />
+		<KeyWord name="locateExt" />
+		<KeyWord name="getChar" />
+		<KeyWord name="getConsoleResolution" />
+		<KeyWord name="firstRun" />
+		<KeyWord name="vCenter" />
+		<KeyWord name="vPrintRight" />
+		<KeyWord name="vPrint" />
+		<KeyWord name="vPrintLn" />
+		<KeyWord name="posInTable" />
+		<KeyWord name="setIrqTime" />
+		<KeyWord name="showCollisionMask" />
+		<KeyWord name="setSpriteCollision" />
+		<KeyWord name="setSpriteCollisionArea" />
+    <KeyWord name="setKeyBufferSize" />
+		<KeyWord name="spriteCollision" />
+		<KeyWord name="fps" />
+		<KeyWord name="inFrontOf" />
+		<KeyWord name="beside" />
+		<KeyWord name="behind" />
+		<KeyWord name="under" />
+		<KeyWord name="onTopOf" />
+		<KeyWord name="inside" />
+		<KeyWord name="between" />
+		<KeyWord name="pureAppend" />
+		<KeyWord name="pureJoin" />
+		<KeyWord name="setIrq" />
+		<KeyWord name="resetIrq" />
+		<KeyWord name="irq" />
+		<KeyWord name="irqTime" />
+		<KeyWord name="showAll" />
+		<KeyWord name="hideText" />
+		<KeyWord name="hideAll" />
+		<KeyWord name="hide" />
+		<KeyWord name="hidden" />
+		<KeyWord name="setMessageIntoCommandLine" />
+		<KeyWord name="getDebugMode" />
+		<KeyWord name="giveFailNotItself" />
+		<KeyWord name="examineDontUnderstand" />
+		<KeyWord name="examineFoundNewObjects" />
+		<KeyWord name="examineYouSee" />
+		<KeyWord name="examineYouSeeInContainer" />
+		<KeyWord name="talkDontUnderstand" />
+		<KeyWord name="talkFail" />
+		<KeyWord name="fileDoesNotExist" />
+		<KeyWord name="badFilename" />
+		<KeyWord name="saveFile" />
+		<KeyWord name="overwriteFile" />
+		<KeyWord name="loadFile" />
+		<KeyWord name="exportFile" />
+		<KeyWord name="emptyDirectory" />
+		<KeyWord name="directory" />
+		<KeyWord name="lastSave" />
+		<KeyWord name="unknownCommand" />
+		<KeyWord name="ok" />
+		<KeyWord name="cancel" />
+		<KeyWord name="muteOn" />
+		<KeyWord name="muteOff" />
+		<KeyWord name="newMusicVolume" />
+		<KeyWord name="musicVolume" />
+		<KeyWord name="pressKey" />
+		<KeyWord name="moveVerifyFail" />
+		<KeyWord name="moveVerify" />
+		<KeyWord name="readDontUnderstand" />
+		<KeyWord name="readFail" />
+		<KeyWord name="giveDontUnderstand" />
+		<KeyWord name="giveFail" />
+		<KeyWord name="showDontUnderstand" />
+		<KeyWord name="showVerify" />
+		<KeyWord name="showVerifyFail" />
+		<KeyWord name="showFail" />
+		<KeyWord name="showUnknownObject" />
+		<KeyWord name="observerNoticedObject" />
+		<KeyWord name="dressDontUnderstand" />
+		<KeyWord name="dressFail" />
+		<KeyWord name="dressFailCanNotDoItAgain" />
+		<KeyWord name="undressDontUnderstand" />
+		<KeyWord name="undressFail" />
+		<KeyWord name="undressFailCanNotDoItAgain" />
+		<KeyWord name="openDontUnderstand" />
+		<KeyWord name="openFail" />
+		<KeyWord name="openFailCanNotDoItAgain" />
+		<KeyWord name="closeDontUnderstand" />
+		<KeyWord name="closeFail" />
+		<KeyWord name="closeFailCanNotDoItAgain" />
+		<KeyWord name="manipulateFailLock" />
+		<KeyWord name="lockDontUnderstand" />
+		<KeyWord name="lockFail" />
+		<KeyWord name="lockFailCanNotDoItAgain" />
+		<KeyWord name="unlockDontUnderstand" />
+		<KeyWord name="unlockFail" />
+		<KeyWord name="unlockFailCanNotDoItAgain" />
+		<KeyWord name="lockUnknownKey" />
+		<KeyWord name="unlockUnknownKey" />
+		<KeyWord name="lockFailBadKey" />
+		<KeyWord name="unlockFailBadKey" />
+		<KeyWord name="manipulateFailOpen" />
+		<KeyWord name="onDontUnderstand" />
+		<KeyWord name="onFail" />
+		<KeyWord name="onFailCanNotDoItAgain" />
+		<KeyWord name="offDontUnderstand" />
+		<KeyWord name="offFail" />
+		<KeyWord name="offFailCanNotDoItAgain" />
+		<KeyWord name="pushDontUnderstand" />
+		<KeyWord name="pushFail" />
+		<KeyWord name="pushFailCanNotDoItAgain" />
+		<KeyWord name="enterVerifyFail" />
+		<KeyWord name="leaveVerifyFail" />
+		<KeyWord name="pullDontUnderstand" />
+		<KeyWord name="pullFail" />
+		<KeyWord name="pullFailCanNotDoItAgain" />
+		<KeyWord name="ambiguity" />
+		<KeyWord name="ambiguityObject" />
+		<KeyWord name="isCommandInDictionary" />
+		<KeyWord name="showCommand" />
+		<KeyWord name="hideCommand " />
+		<KeyWord name="isCommandEnabled" />
+		<KeyWord name="enableCommand" />
+		<KeyWord name="disableCommand" />
+		<KeyWord name="renameCommand" />
+		<KeyWord name="getFontSize" />
+		<KeyWord name="fontCorrection" />
+		<KeyWord name="fontInfoCorrection" />
+		<KeyWord name="fontCommandCorrection" />
+		<KeyWord name="getExecutionTime" />
+		<KeyWord name="getMaxExecutionTime" />
+		<KeyWord name="getErrorMaxExecutionTime" />
+		<KeyWord name="setMaxExecutionTime" />
+		<KeyWord name="setErrorMaxExecutionTime" />
+		<KeyWord name="getLoopTime" />
+		<KeyWord name="getMaxLoopTime" />
+		<KeyWord name="setMaxLoopTime" />
+		<KeyWord name="getErrorMaxLoopTime" />
+		<KeyWord name="setErrorMaxLoopTime" />
+		<KeyWord name="getLoopCount" />
+		<KeyWord name="getMaxLoopCount" />
+		<KeyWord name="setMaxLoopCount" />
+		<KeyWord name="getErrorMaxLoopCount" />
+		<KeyWord name="setErrorMaxLoopCount" />
+		<KeyWord name="value" />
+		<KeyWord name="size" />
+		<KeyWord name="description" />
+		<KeyWord name="next" />
+		<KeyWord name="preset" />
+		<KeyWord name="name" />
+		<KeyWord name="uniqueName" />
+		<KeyWord name="priority" />
+		<KeyWord name="descriptionId" />
+		<KeyWord name="nameFrom" />
+		<KeyWord name="nameTo" />
+		<KeyWord name="actionUpdate" />
+		<KeyWord name="countOfExamination" />
+		<KeyWord name="actionPrint" />
+		<KeyWord name="countOfTouch" />
+		<KeyWord name="countOfExaminationParentActual" />
+		<KeyWord name="countOfExaminationParentMax" />
+		<KeyWord name="map" />
+		<KeyWord name="baseMap" />
+		<KeyWord name="copy" />
+		<KeyWord name="enterLastAction" />
+		<KeyWord name="enter" />
+		<KeyWord name="leave" />
+		<KeyWord name="fullOfFloor" />
+		<KeyWord name="holeInFloorDestination" />
+		<KeyWord name="holeInFloorAction" />
+		<KeyWord name="buttonOnFloor" />
+		<KeyWord name="showObjectsLongnameInDescriptionOfRoom" />
+		<KeyWord name="showObjectsShowAsSeparateObject" />
+		<KeyWord name="showObjectsActionPrint" />
+		<KeyWord name="enterVerify" />
+		<KeyWord name="leaveVerify" />
+		<KeyWord name="nouns" />
+		<KeyWord name="synonyms" />
+		<KeyWord name="adjectives" />
+		<KeyWord name="location" />
+		<KeyWord name="locationDetails" />
+		<KeyWord name="previousLocation" />
+		<KeyWord name="previousLocationDetails" />
+		<KeyWord name="showAsSeparateObject" />
+		<KeyWord name="visibility" />
+		<KeyWord name="meet" />
+		<KeyWord name="actionAfterYourMove" />
+		<KeyWord name="actionAfterYourCommand" />
+		<KeyWord name="found" />
+		<KeyWord name="nonportable" />
+		<KeyWord name="door" />
+		<KeyWord name="foundAction" />
+		<KeyWord name="foundText" />
+		<KeyWord name="seeText" />
+		<KeyWord name="automaticsShowFoundObject" />
+		<KeyWord name="automaticsShowObject" />
+		<KeyWord name="canNotPut" />
+		<KeyWord name="longnameInDescriptionOfRoom" />
+		<KeyWord name="longnameInDescriptionOfObject" />
+		<KeyWord name="life" />
+		<KeyWord name="actionEndLife" />
+		<KeyWord name="isOpen" />
+		<KeyWord name="actionStartLife" />
+		<KeyWord name="action" />
+		<KeyWord name="transparent" />
+		<KeyWord name="isLocked" />
+		<KeyWord name="key" />
+		<KeyWord name="isEnabled" />
+		<KeyWord name="isPushed" />
+		<KeyWord name="movementSpeedBasedOnMove" />
+		<KeyWord name="movementSpeedBasedOnCommand" />
+		<KeyWord name="movementSpeedBasedOnTime" />
+		<KeyWord name="actionBeforeMove" />
+		<KeyWord name="clsUp" />
+		<KeyWord name="clsDown" />
+		<KeyWord name="clsRight" />
+		<KeyWord name="clsLeft" />
+		<KeyWord name="fastCls" />
+		<KeyWord name="fastClsUp" />
+		<KeyWord name="fastClsDown" />
+		<KeyWord name="printSeparator" />
+		<KeyWord name="textSeparator" />
+		<KeyWord name="fog" />
+		<KeyWord name="quake" />
+		<KeyWord name="fadeOn" />
+		<KeyWord name="fadeOff" />
+		<KeyWord name="fastFadeOn" />
+		<KeyWord name="fastFadeOff" />
+		<KeyWord name="globalFog" />
+		<KeyWord name="fade" />
+		<KeyWord name="globalFade" />
+		<KeyWord name="actual" />
+		<KeyWord name="console" />
+		<KeyWord name="globalFadeOn" />
+		<KeyWord name="globalFastFadeOn" />
+		<KeyWord name="hash" />
+		<KeyWord name="globalFadeOff" />
+		<KeyWord name="globalFadeOff" />
+		<KeyWord name="globalFastFadeOff" />
+		<KeyWord name="waitForGlobalFadeEffect" />
+		<KeyWord name="waitForGlobalFogEffect" />
+		<KeyWord name="waitForGlobalEffect" />
+		<KeyWord name="replaceFont" />
+		<KeyWord name="gfxPrint" />
+		<KeyWord name="gfxPrintRight" />
+		<KeyWord name="gfxPrintCenter" />
+		<KeyWord name="incVar" />
+		<KeyWord name="decVar" />
+		<KeyWord name="inc" />
+		<KeyWord name="dec" />
+		<KeyWord name="abs" />
+		<KeyWord name="min" />
+		<KeyWord name="max" />
+		<KeyWord name="swapVar" />
+		<KeyWord name="math" />
+		<KeyWord name="isEven" />
+		<KeyWord name="isOdd" />
+		<KeyWord name="round" />
+		<KeyWord name="floor" />
+		<KeyWord name="ceil" />
+		<KeyWord name="modf" />
+		<KeyWord name="generatePassword" />
+		<KeyWord name="generatePasswordNumbers" />
+		<KeyWord name="generatePasswordChars" />
+		<KeyWord name="generateNumber" />
+		<KeyWord name="from" />
+		<KeyWord name="to" />
+		<KeyWord name="maximumRepetitionForEntireInterval" />
+		<KeyWord name="bufferSizeForLatestNumbers" />
+		<KeyWord name="random" />
+		<KeyWord name="randomReset" />
+		<KeyWord name="randomFromTable" />
+		<KeyWord name="randomShuffle" />
+		<KeyWord name="incScore" />
+		<KeyWord name="decScore" />
+		<KeyWord name="setScore" />
+		<KeyWord name="setMaxScore" />
+		<KeyWord name="check" />
+		<KeyWord name="yourPreviousPosition" />
+		<KeyWord name="yourMove" />
+		<KeyWord name="actualExecTime" />
+		<KeyWord name="type" />
+		<KeyWord name="pause" />
+		<KeyWord name="refreshInterval" />
+		<KeyWord name="runtimePosition" />
+		<KeyWord name="countOfExecutionAction" />
+		<KeyWord name="countOfVisits" />
+		<KeyWord name="last" />
+		<KeyWord name="intervalsize" />
+		<KeyWord name="interval" />
+		<KeyWord name="objectType" />
+		<KeyWord name="isContainer" />
+		<KeyWord name="allowedLocation" />
+		<KeyWord name="containerReceived" />
+		<KeyWord name="containerReleased" />
+		<KeyWord name="capacityBulk" />
+		<KeyWord name="capacityWeight" />
+		<KeyWord name="capacityCount" />
+		<KeyWord name="allowedExactlyObjects" />
+		<KeyWord name="bulk" />
+		<KeyWord name="weight" />
+		<KeyWord name="backupDoorFrom" />
+		<KeyWord name="backupDoorTo" />
+		<KeyWord name="visibilityInhibitor" />
+		<KeyWord name="runtimeAfterTimerSpeed" />
+		<KeyWord name="actionAfterMove" />
+		<KeyWord name="move" />
+		<KeyWord name="time" />
+		<KeyWord name="command" />
+		<KeyWord name="runtimeMovementSpeedBasedOnMove" />
+		<KeyWord name="runtimeMovementSpeedBasedOnCommand" />
+		<KeyWord name="runtimeMovementSpeedBasedOnTime" />
+		<KeyWord name="territory" />
+		<KeyWord name="positionOnRoad" />
+		<KeyWord name="movementDirectionOnTerritory" />
+		<KeyWord name="setThread" />
+		<KeyWord name="getThread" />
+		<KeyWord name="setVar" />
+		<KeyWord name="getColor" />
+		<KeyWord name="replaceColor" />
+		<KeyWord name="createScreen" />
+		<KeyWord name="closeScreen " />
+		<KeyWord name="setScreenSolid" />
+		<KeyWord name="clearScreen" />
+		<KeyWord name="existsScreen" />
+		<KeyWord name="isEnabledScreen" />
+		<KeyWord name="imgOnScreen " />
+		<KeyWord name="solid" />
+		<KeyWord name="setSystemString" />
+		<KeyWord name="enableScreen" />
+		<KeyWord name="disableScreen" />
+		<KeyWord name="setScreenTransparent" />
+		<KeyWord name="join" />
+		<KeyWord name="append" />
+		<KeyWord name="firstWord" />
+		<KeyWord name="lastWord " />
+		<KeyWord name="countOfWords" />
+		<KeyWord name="countOfChars " />
+		<KeyWord name="find" />
+		<KeyWord name="mid" />
+		<KeyWord name="len" />
+		<KeyWord name="middle" />
+		<KeyWord name="left" />
+		<KeyWord name="right" />
+		<KeyWord name="createString" />
+		<KeyWord name="replace" />
+		<KeyWord name="removeWordsShorterThan" />
+		<KeyWord name="removeDiacritics" />
+		<KeyWord name="trim" />
+		<KeyWord name="toLower" />
+		<KeyWord name="isDuplicity " />
+		<KeyWord name="isDouble" />
+		<KeyWord name="isInteger" />
+		<KeyWord name="isNumber" />
+		<KeyWord name="isAlpha" />
+		<KeyWord name="isSymbol" />
+		<KeyWord name="existsVar" />
+		<KeyWord name="compare" />
+		<KeyWord name="compareDLD" />
+		<KeyWord name="compareJW " />
+		<KeyWord name="input" />
+		<KeyWord name="enableScrolling" />
+		<KeyWord name="disableScrolling" />
+		<KeyWord name="scroll" />
+		<KeyWord name="scrollPage" />
+		<KeyWord name="setScrollSpeed" />
+		<KeyWord name="setScrollDelay" />
+		<KeyWord name="createRainbowVertical" />
+		<KeyWord name="closeRainbowVertical" />
+		<KeyWord name="enableRainbowVertical" />
+		<KeyWord name="disableRainbowVertical" />
+		<KeyWord name="existsRainbowVertical" />
+		<KeyWord name="isEnabledRainbowVertical" />
+		<KeyWord name="createRainbowHorizontal" />
+		<KeyWord name="closeRainbowHorizontal" />
+		<KeyWord name="enableRainbowHorizontal" />
+		<KeyWord name="disableRainbowHorizontal" />
+		<KeyWord name="existsRainbowHorizontal" />
+		<KeyWord name="isEnabledRainbowHorizontal" />
+		<KeyWord name="multiply" />
+		<KeyWord name="setObject" />
+		<KeyWord name="getObject" />
+		<KeyWord name="swapObject" />
+		<KeyWord name="setObjectsOnLocation" />
+		<KeyWord name="isInTerritory" />
+		<KeyWord name="setRoom" />
+		<KeyWord name="getRoom" />
+		<KeyWord name="getOneId" />
+		<KeyWord name="getExactId" />
+		<KeyWord name="getId" />
+		<KeyWord name="getCountOfId" />
+		<KeyWord name="teleportToYou" />
+		<KeyWord name="followYou" />
+		<KeyWord name="circle" />
+		<KeyWord name="cycle" />
+		<KeyWord name="line" />
+		<KeyWord name="yoyo" />
+		<KeyWord name="removeSprite" />
+		<KeyWord name="enableSprite" />
+		<KeyWord name="disableSprite" />
+		<KeyWord name="setSprite" />
+		<KeyWord name="existsSprite" />
+		<KeyWord name="isEnabledSprite" />
+		<KeyWord name="addSprite" />
+		<KeyWord name="teleport" />
+		<KeyWord name="switch" />
+		<KeyWord name="disableKeyBuffer" />
+		<KeyWord name="enableKeyBuffer" />
+		<KeyWord name="resetKeyBuffer" />
+		<KeyWord name="automaticShowOn" />
+		<KeyWord name="automaticShowOff" />
+		<KeyWord name="setPowerColor" />
+		<KeyWord name="setPowerAllowedChars" />
+		<KeyWord name="setPowerAllowedChars" />
+		<KeyWord name="setPowerLine" />
+		<KeyWord name="setPowerForNewLine" />
+		<KeyWord name="setPowerSpeed" />
+		<KeyWord name="setColoringPen" />
+		<KeyWord name="setColoringPaper" />
+		<KeyWord name="setColoringLine" />
+		<KeyWord name="setColoringForNewLine" />
+		<KeyWord name="setColoringSpeed" />
+		<KeyWord name="setColoringNewLineFromBackground" />
+		<KeyWord name="enableInfoLine" />
+		<KeyWord name="disableInfoLine" />
+		<KeyWord name="resetInfoLine" />
+		<KeyWord name="setInfoLine" />
+		<KeyWord name="setInfoLine" />
+		<KeyWord name="enablePressKeyText" />
+		<KeyWord name="disablePressKeyText" />
+		<KeyWord name="setCommandLine" />
+		<KeyWord name="img" />
+		<KeyWord name="removeImg" />
+		<KeyWord name="video" />
+		<KeyWord name="musicLoad" />
+		<KeyWord name="musicOff" />
+		<KeyWord name="setFadeMusicPlay" />
+		<KeyWord name="setFadeMusicStop" />
+		<KeyWord name="setTimeInterval" />
+		<KeyWord name="setActionTime" />
+		<KeyWord name="setYourCapacityCount" />
+		<KeyWord name="getYourCapacityCount" />
+		<KeyWord name="setYourCapacityBulk" />
+		<KeyWord name="getYourCapacityBulk" />
+		<KeyWord name="setYourCapacityWeight" />
+		<KeyWord name="getYourCapacityWeight" />
+		<KeyWord name="createPath" />
+		<KeyWord name="removePath" />
+		<KeyWord name="createRoom" />
+		<KeyWord name="createObject" />
+		<KeyWord name="isInObject" />
+		<KeyWord name="isInRoom" />
+		<KeyWord name="isHere" />
+		<KeyWord name="isHereOrIsInYou" />
+		<KeyWord name="isInYou" />
+		<KeyWord name="IdObjectToIdRoom" />
+		<KeyWord name="moveHero" />
+		<KeyWord name="music" />
+		<KeyWord name="existsSavePosition" />
+		<KeyWord name="existsSaveObject" />
+		<KeyWord name="saveObject" />
+		<KeyWord name="loadObject" />
+		<KeyWord name="quit" />
+		<KeyWord name="getKey" />
+		<KeyWord name="getKeyFromBuffer" />
+		<KeyWord name="delay" />
+		<KeyWord name="moveObject" />
+		<KeyWord name="moveHeroWithObject" />
+		<KeyWord name="locateOnScreen" />
+		<KeyWord name="getWidth" />
+		<KeyWord name="getHeight" />
+		<KeyWord name="getInfoLineHeight" />
+		<KeyWord name="getCommandLineHeight" />
+		<KeyWord name="inverseDirection" />
+		<KeyWord name="setYourPosition" />
+		<KeyWord name="getYourPosition" />
+		<KeyWord name="getYourPreviousPosition" />
+		<KeyWord name="getYourMove " />
+		<KeyWord name="setActionHelp" />
+		<KeyWord name="setActionWait" />
+		<KeyWord name="setActionStart" />
+		<KeyWord name="setActionLoad" />
+		<KeyWord name="setActionBeforeSave" />
+		<KeyWord name="setActionCommand" />
+		<KeyWord name="setActionMove" />
+		<KeyWord name="setActionEnter" />
+		<KeyWord name="disabled" />
+		<KeyWord name="holePut" />
+		<KeyWord name="holeGive" />
+		<KeyWord name="buttonOnPut" />
+		<KeyWord name="buttonOnGive" />
+		<KeyWord name="buttonOff" />
+		<KeyWord name="slow" />
+		<KeyWord name="fast" />
+		<KeyWord name="texture" />
+		<KeyWord name="screen" />
+		<KeyWord name="calculate " />
+		<KeyWord name="esc" />
+		<KeyWord name="space" />
+		<KeyWord name="tab" />
+		<KeyWord name="backspace" />
+		<KeyWord name="delete" />
+		<KeyWord name="insert" />
+		<KeyWord name="home" />
+		<KeyWord name="pageUp" />
+		<KeyWord name="pageDown" />
+		<KeyWord name="arrowRight" />
+		<KeyWord name="arrowLeft" />
+		<KeyWord name="arrowUp" />
+		<KeyWord name="arrowDown" />
+		<KeyWord name="distanceFromYouToObject" />
+		<KeyWord name="distanceFromYouToObjectToReg" />
+		<KeyWord name="distanceFromYouToRoom" />
+		<KeyWord name="distanceFromYouToRoomToReg" />
+		<KeyWord name="distanceBasedOnMapFromYouToObject" />
+		<KeyWord name="distanceBasedOnMapFromYouToObjectToReg" />
+		<KeyWord name="distanceBasedOnMapFromYouToRoom" />
+		<KeyWord name="distanceBasedOnMapFromYouToRoomToReg" />
+		<KeyWord name="directionFromYouToObject" />
+		<KeyWord name="directionFromYouToObjectToReg" />
+		<KeyWord name="directionFromYouToRoom" />
+		<KeyWord name="directionFromYouToRoomToReg" />
+		<KeyWord name="directionBasedOnMapFromYouToObject" />
+		<KeyWord name="directionBasedOnMapFromYouToObjectToReg" />
+		<KeyWord name="directionBasedOnMapFromYouToRoom" />
+		<KeyWord name="directionBasedOnMapFromYouToRoomToReg" />
+		<KeyWord name="leaveObject" />
+		<KeyWord name="meetObject" />
+		<KeyWord name="timer" />
+		<KeyWord name="start" />
+		<KeyWord name="unknown" />
+		<KeyWord name="import" />
+		<KeyWord name="export" />
+		<KeyWord name="colors" />
+		<KeyWord name="error" />
+		<KeyWord name="importBreak" />
+		<KeyWord name="breakImport" />
+		<KeyWord name="debugRun" />
+		<KeyWord name="debugLoad" />
+		<KeyWord name="add" />
+		<KeyWord name="remove" />
+		<KeyWord name="clear" />
+		<KeyWord name="getCurrentDate" />
+		<KeyWord name="getCurrentTime" />
+		<KeyWord name="getCurrentDateAndTime" />
+		<KeyWord name="none" />
+		<KeyWord name="horizontal" />
+		<KeyWord name="vertical" />
+		<KeyWord name="empty" />
+		<KeyWord name="comma" />
+		<KeyWord name="semicolon" />
+		<KeyWord name="addNewWordIntoTab" />
+		<KeyWord name="deleteWordFromTab" />
+		<KeyWord name="takeVerify" />
+		<KeyWord name="putVerify" />
+		<KeyWord name="useVerify" />
+		<KeyWord name="insertVerify" />
+		<KeyWord name="examineVerify" />
+		<KeyWord name="talkVerify" />
+		<KeyWord name="dressVerify" />
+		<KeyWord name="undressVerify" />
+		<KeyWord name="openVerify" />
+		<KeyWord name="closeVerify" />
+		<KeyWord name="lockVerify" />
+		<KeyWord name="unlockVerify" />
+		<KeyWord name="onVerify" />
+		<KeyWord name="offVerify" />
+		<KeyWord name="pushVerify" />
+		<KeyWord name="pullVerify" />
+		<KeyWord name="readVerify" />
+		<KeyWord name="giveVerify" />
+		<KeyWord name="examineVerifyFail" />
+		<KeyWord name="talkVerifyFail" />
+		<KeyWord name="dressVerifyFail" />
+		<KeyWord name="undressVerifyFail" />
+		<KeyWord name="openVerifyFail" />
+		<KeyWord name="closeVerifyFail" />
+		<KeyWord name="lockVerifyFail" />
+		<KeyWord name="unlockVerifyFail" />
+		<KeyWord name="onVerifyFail" />
+		<KeyWord name="offVerifyFail" />
+		<KeyWord name="pushVerifyFail" />
+		<KeyWord name="pullVerifyFail" />
+		<KeyWord name="readVerifyFail" />
+		<KeyWord name="giveVerifyFail" />
+		<KeyWord name="foundVerify" />
+		<KeyWord name="foundVerifyFail" />
+		<KeyWord name="askVerify" />
+		<KeyWord name="askVerifyFail" />
+		<KeyWord name="askUnknownObject" />
+		<KeyWord name="askFail" />
+		<KeyWord name="askDontUnderstand" />
+		<KeyWord name="tellVerify" />
+		<KeyWord name="tellVerifyFail" />
+		<KeyWord name="tellUnknownObject" />
+		<KeyWord name="tellFail" />
+		<KeyWord name="tellDontUnderstand" />
+		<KeyWord name="giveFailWearing" />
+		<KeyWord name="giveFailNotHere" />
+		<KeyWord name="giveFailNotYou" />
+		<KeyWord name="giveFailSameSpace" />
+		<KeyWord name="giveFailUnknownDestination" />
+		<KeyWord name="giveFailDestination" />
+		<KeyWord name="giveFailContainerIsClose" />
+		<KeyWord name="giveFailBulk" />
+		<KeyWord name="giveFailWeight" />
+		<KeyWord name="giveFailCount" />
+		<KeyWord name="giveFailNotAllowed" />
+		<KeyWord name="hitDontUnderstand" />
+		<KeyWord name="hitVerify" />
+		<KeyWord name="touchVerify" />
+		<KeyWord name="pressVerify" />
+		<KeyWord name="smellVerify" />
+		<KeyWord name="listenVerify" />
+		<KeyWord name="eatVerify" />
+		<KeyWord name="drinkDontUnderstand" />
+		<KeyWord name="drinkVerify" />
+		<KeyWord name="drinkVerifyFail" />
+		<KeyWord name="drinkFail " />
+		<KeyWord name="showCursor" />
+		<KeyWord name="hideCursor" />
+		<KeyWord name="getWord" />
+		<KeyWord name="getMouse" />
+		<KeyWord name="romanToArabic" />
+		<KeyWord name="arabicToRoman" />
+		<KeyWord name="moveMapId" />
+		<KeyWord name="longnameInDescriptionOfYou" />
+		<KeyWord name="enableEscapeCharacter" />
+		<KeyWord name="disableEscapeCharacterd" />
+		<KeyWord name="background" />
+		<KeyWord name="highlight" />
+		<KeyWord name="badAction" />
+		<KeyWord name="error" />
+		<KeyWord name="active" />
+		<KeyWord name="normalInput" />
+		<KeyWord name="disableCommandLine" />
+		<KeyWord name="direction" />
+		<KeyWord name="yourPen" />
+		<KeyWord name="yourPenInput" />
+		<KeyWord name="lowerSeparator" />
+		<KeyWord name="infoPen" />
+		<KeyWord name="upperSeparator" />
+		<KeyWord name="roomName" />
+		<KeyWord name="clearCommand" />
+		<KeyWord name="addCommand" />
+		<KeyWord name="rom_your_previous_position" />
+		<KeyWord name="rom_your_position" />
+		<KeyWord name="rom_your_move" />
+		<KeyWord name="rom_first_run" />
+		<KeyWord name="rom_count_of_commands" />
+		<KeyWord name="rom_count_of_moves" />
+		<KeyWord name="rom_result_last_movement" />
+		<KeyWord name="rom_count_of_your_objects" />
+		<KeyWord name="rom_weight_of_your_objects" />
+		<KeyWord name="rom_bulk_of_your_objects" />
+		<KeyWord name="rom_count_of_here_objects" />
+		<KeyWord name="rom_weight_of_here_objects" />
+		<KeyWord name="rom_bulk_of_here_objects" />
+		<KeyWord name="rom_count_of_objects" />
+		<KeyWord name="rom_weight_of_objects" />
+		<KeyWord name="rom_bulk_of_objects" />
+		<KeyWord name="rom_score" />
+		<KeyWord name="rom_max_score" />
+		<KeyWord name="rom_pct_score" />
+		<KeyWord name="rom_appname" />
+		<KeyWord name="rom_icon" />
+		<KeyWord name="rom_author" />
+		<KeyWord name="rom_fps" />
+		<KeyWord name="rom_system_boot_time" />
+		<KeyWord name="rom_time_spent_in_game" />
+		<KeyWord name="rom_time_spent_in_game_seconds" />
+		<KeyWord name="rom_time_spent_in_game_minutes" />
+		<KeyWord name="rom_time_spent_in_game_hours" />
+		<KeyWord name="rom_time_spent_in_game_days" />
+		<KeyWord name="rom_play_time" />
+		<KeyWord name="rom_time_seconds" />
+		<KeyWord name="rom_time_minutes" />
+		<KeyWord name="rom_time_hours" />
+		<KeyWord name="rom_time_days" />
+		<KeyWord name="rom_delta_time" />
+		<KeyWord name="rom_delta_time_seconds" />
+		<KeyWord name="rom_delta_time_minutes" />
+		<KeyWord name="rom_delta_time_hours" />
+		<KeyWord name="rom_delta_time_days" />
+		<KeyWord name="rom_exec_owner" />
+		<KeyWord name="rom_exec_executor" />
+		<KeyWord name="rom_exec_owner_action" />
+		<KeyWord name="rom_exec_parent_action_calls_run" />
+		<KeyWord name="rom_exec_count_of_parameters" />
+		<KeyWord name="rom_exec_parameters" />
+		<KeyWord name="rom_exec_commandline" />
+		<KeyWord name="rom_exec_commandline_command" />
+		<KeyWord name="rom_exec_commandline_without_verb" />
+		<KeyWord name="rom_exec_commandline_without_primary_object" />
+		<KeyWord name="rom_exec_commandline_unknown_words" />
+		<KeyWord name="rom_exec_commandline_count_of_primary_objects" />
+		<KeyWord name="rom_exec_commandline_primary_object_location" />
+		<KeyWord name="rom_exec_commandline_primary_objects" />
+		<KeyWord name="rom_exec_commandline_count_of_secondary_objects" />
+		<KeyWord name="rom_exec_commandline_secondary_objects_location" />
+		<KeyWord name="rom_exec_commandline_secondary_objects" />
+		<KeyWord name="rom_flag_Id" />
+		<KeyWord name="rom_reg_Id" />
+		<KeyWord name="deg" />
+		<KeyWord name="rad" />
+		<KeyWord name="sin" />
+		<KeyWord name="cos" />
+		<KeyWord name="tan" />
+		<KeyWord name="asin" />
+		<KeyWord name="acos" />
+		<KeyWord name="atan" />
+		<KeyWord name="hsin" />
+		<KeyWord name="hcos" />
+		<KeyWord name="htan" />
+		<KeyWord name="sqr" />
+		<KeyWord name="log10" />
+		<KeyWord name="log2" />
+		<KeyWord name="log" />
+		<KeyWord name="exp" />
+		<KeyWord name="exp2" />
+		<KeyWord name="abs" />
+		<KeyWord name="bool" />
+		<KeyWord name="not" />
+		<KeyWord name="int" />
+		<KeyWord name="if" />
+		<KeyWord name="else" />
+		<KeyWord name="elseif" />
+		<KeyWord name="endif" />
+		<KeyWord name="do" />
+		<KeyWord name="loop" />
+		<KeyWord name="isTrue" />
+		<KeyWord name="isFalse" />
+		<KeyWord name="isNull" />
+		<KeyWord name="isNullOrFalse" />
+		<KeyWord name="isMute" />
+		<KeyWord name="moveObjectWithHero" />
+		<KeyWord name="textToDirection" />
+		<KeyWord name="info" />
+		<KeyWord name="warning" />
+		<KeyWord name="clearLog" />
+		<KeyWord name="showObjects" />
+		<KeyWord name="showRooms" />
+		<KeyWord name="showThreads" />
+		<KeyWord name="showVars" />
+		<KeyWord name="exportStory" />
+		<KeyWord name="receivedDonate" />
+		<KeyWord name="receivedPut" />
+		<KeyWord name="receivedGive" />
+		<KeyWord name="released" />
+		<KeyWord name="donateDontUnderstand" />
+		<KeyWord name="donateVerifyFail" />
+		<KeyWord name="donateFail" />
+		<KeyWord name="donateFailWearing" />
+		<KeyWord name="donateFailNotItself" />
+		<KeyWord name="donateFailNotYou" />
+		<KeyWord name="donateFailNotHere" />
+		<KeyWord name="donateFailUnknownDestination" />
+		<KeyWord name="donateFailSameSpace" />
+		<KeyWord name="donateFailBulk" />
+		<KeyWord name="donateFailWeight" />
+		<KeyWord name="donateFailCount" />
+		<KeyWord name="donateFailNotAllowed" />
+		<KeyWord name="donateVerify" />
+		<KeyWord name="donate" />
+		<KeyWord name="insert_donate_verifyFail" />
+		<KeyWord name="insert_put_verifyFail" />
+		<KeyWord name="insert_give_verifyFail" />
+
+		<KeyWord name="#note" func="yes">
+      <Overload retVal="" descr="&#x0a;komentar&#x0a;&#x0a;[command]"></Overload>
+		</KeyWord>
+		<KeyWord name="#showkeycode" func="yes">
+      <Overload retVal="" descr="&#x0a;dokaze zobrazit kod klavesy&#x0a;&#x0a;[command]"></Overload>
+		</KeyWord>
+		<KeyWord name="#mute" func="yes">
+			<Overload retVal="" descr="&#x0a;M = #true/#false&#x0a;zapne vypne stlmenie zvuku, parameter nie je povinny&#x0a;&#x0a;[command]">
+				<Param name=" (bool M)" />
+			</Overload>
+			<Overload retVal="" descr="&#x0a;Command = definicia prikazu mute&#x0a;&#x0a;[#commands={...}]">
+				<Param name=" =Command" />
+      </Overload>
+		</KeyWord>
+		<KeyWord name="fullScreen" func="yes">
+			<Overload retVal="" descr="&#x0a;FS = true/false&#x0a;zapne zobrazenie na celu obrazovku&#x0a;&#x0a;[config.cfg]">
+				<Param name=" bool FS" />
+			</Overload>
+		</KeyWord>
+		<KeyWord name="monitor" func="yes">
+			<Overload retVal="" descr="&#x0a;N - cislo monitora na ktorom sa ma spustit&#x0a;&#x0a;[config.cfg]">
+				<Param name=" int N" />
+			</Overload>
+		</KeyWord>
+		<KeyWord name="windowWidth" func="yes">
+			<Overload retVal="" descr="&#x0a;W - realna sirka okna/obrazovky&#x0a;&#x0a;[config.cfg]">
+				<Param name=" int W" />
+			</Overload>
+		</KeyWord>
+		<KeyWord name="windowHeight" func="yes">
+			<Overload retVal="" descr="&#x0a;H - realna vyska okna/obrazovky&#x0a;&#x0a;[config.cfg]">
+				<Param name=" int H" />
+			</Overload>
+		</KeyWord>
+		<KeyWord name="bpp" func="yes">
+			<Overload retVal="" descr="&#x0a;D - farebna hlbka (32)&#x0a;&#x0a;[config.cfg]">
+				<Param name=" int D" />
+			</Overload>
+		</KeyWord>
+		<KeyWord name="width" func="yes">
+			<Overload retVal="" descr="&#x0a;W - virtualna sirka okna/obrazovky&#x0a;&#x0a;[config.cfg]">
+				<Param name=" int W" />
+			</Overload>
+		</KeyWord>
+		<KeyWord name="height" func="yes">
+			<Overload retVal="" descr="&#x0a;H - virtualna vyska okna/obrazovky&#x0a;&#x0a;[config.cfg]">
+				<Param name=" int H" />
+			</Overload>
+		</KeyWord>
+		<KeyWord name="font" func="yes">
+			<Overload retVal="" descr="&#x0a;FNT - pouzity font&#x0a;&#x0a;[config.cfg]">
+				<Param name=" string FNT" />
+			</Overload>
+		</KeyWord>
+		<KeyWord name="#font" func="yes">
+			<Overload retVal="" descr="&#x0a;FNT - pouzity font&#x0a;&#x0a;[#privateConfig={...}]">
+				<Param name=" string FNT" />
+			</Overload>
+		</KeyWord>
+		<KeyWord name="fontSize" func="yes">
+			<Overload retVal="" descr="&#x0a;size - velkost fontu&#x0a;&#x0a;[config.cfg]">
+				<Param name=" int size" />
+			</Overload>
+		</KeyWord>
+		<KeyWord name="#fontSize" func="yes">
+			<Overload retVal="" descr="&#x0a;size - velkost fontu&#x0a;&#x0a;[#privateConfig={...}]">
+				<Param name=" int size" />
+			</Overload>
+		</KeyWord>
+		<KeyWord name="fontInfo" func="yes">
+			<Overload retVal="" descr="&#x0a;FNT - pouzity font v info line&#x0a;&#x0a;[config.cfg]">
+				<Param name=" string FNT" />
+			</Overload>
+		</KeyWord>
+		<KeyWord name="#fontInfo" func="yes">
+			<Overload retVal="" descr="&#x0a;FNT - pouzity font v info line&#x0a;&#x0a;[#privateConfig={...}]">
+				<Param name=" string FNT" />
+			</Overload>
+		</KeyWord>
+		<KeyWord name="fontInfoSize" func="yes">
+			<Overload retVal="" descr="&#x0a;size - velkost fontu v info line&#x0a;&#x0a;[config.cfg]">
+				<Param name=" int size" />
+			</Overload>
+		</KeyWord>
+		<KeyWord name="#fontInfoSize" func="yes">
+			<Overload retVal="" descr="&#x0a;size - velkost fontu v info line&#x0a;&#x0a;[#privateConfig={...}]">
+				<Param name=" int size" />
+			</Overload>
+		</KeyWord>
+		<KeyWord name="fontCommand" func="yes">
+			<Overload retVal="" descr="&#x0a;FNT - pouzity font v command line&#x0a;&#x0a;[config.cfg]">
+				<Param name=" string FNT" />
+			</Overload>
+		</KeyWord>
+		<KeyWord name="#fontCommand" func="yes">
+			<Overload retVal="" descr="&#x0a;FNT - pouzity font v command line&#x0a;&#x0a;[#privateConfig={...}]">
+				<Param name=" string FNT" />
+			</Overload>
+		</KeyWord>
+		<KeyWord name="fontCommandSize" func="yes">
+			<Overload retVal="" descr="&#x0a;size - velkost fontu v command line&#x0a;&#x0a;[config.cfg]">
+				<Param name=" int size" />
+			</Overload>
+		</KeyWord>
+		<KeyWord name="#fontCommandSize" func="yes">
+			<Overload retVal="" descr="&#x0a;size - velkost fontu v command line&#x0a;&#x0a;[#privateConfig={...}]">
+				<Param name=" int size" />
+			</Overload>
+		</KeyWord>
+		<KeyWord name="accelerated" func="yes">
+			<Overload retVal="" descr="&#x0a;A = true/false&#x0a;zapne hardwarovu akceleraciu&#x0a;&#x0a;[config.cfg]">
+				<Param name=" bool A" />
+			</Overload>
+		</KeyWord>
+		<KeyWord name="synchronizedRefreshRate" func="yes">
+			<Overload retVal="" descr="&#x0a;SRR = true/false&#x0a;zapne synchronizaciu s obnovovacou frekvenciou monitora&#x0a;nastavi maxFPS na 0, je mozne ho prepisat&#x0a;&#x0a;[config.cfg]">
+				<Param name=" bool SRR" />
+			</Overload>
+		</KeyWord>
+		<KeyWord name="maxFps" func="yes">
+			<Overload retVal="" descr="&#x0a;Max = obnovovacia frekvencia&#x0a;povolene hodnoty su 60-160&#x0a;0 nastavuje maximalnu hodnotu 160&#x0a;&#x0a;[config.cfg]">
+				<Param name=" int Max" />
+			</Overload>
+		</KeyWord>
+		<KeyWord name="updateTexture" func="yes">
+			<Overload retVal="" descr="&#x0a;UPD = negenerovat stale novu texturu, vykonavat iba jej update&#x0a;&#x0a;[config.cfg]">
+				<Param name=" bool UPD" />
+			</Overload>
+		</KeyWord>
+		<KeyWord name="sfx" func="yes">
+			<Overload retVal="" descr="&#x0a;State = zapne hudbu&#x0a;&#x0a;[config.cfg]">
+				<Param name=" bool State" />
+			</Overload>
+		</KeyWord>
+		<KeyWord name="volume" func="yes">
+			<Overload retVal="" descr="&#x0a;V = hlasitost hudby&#x0a;interval povolenych hodnot je 0-255&#x0a;&#x0a;[config.cfg]">
+				<Param name=" int V" />
+			</Overload>
+		</KeyWord>
+		<KeyWord name="#volume" func="yes">
+			<Overload retVal="" descr="&#x0a;Command = definicia prikazu na nastavenie hlasitosti&#x0a;&#x0a;[#commands={...}]">
+				<Param name=" =Command" />
+			</Overload>
+			<Overload retVal="" descr="&#x0a;V = hlasitost hudby&#x0a;interval povolenych hodnot je 0-255&#x0a;&#x0a;[#privateConfig={...}]">
+				<Param name=" int V" />
+			</Overload>
+		</KeyWord>
+
+  </AutoComplete>
+</NotepadPlus>

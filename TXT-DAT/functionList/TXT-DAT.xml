@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- ==========================================================================\
+|
+|   To learn how to make your own language parser, please check the following
+|   link:
+|       https://npp-user-manual.org/docs/function-list/
+|
+\=========================================================================== -->
+<NotepadPlus>
+	<functionList>
+			<!-- ===================================================== [ TXT-DAT ] -->
+			<!-- TXT-DAT v1.3                                                      -->
+
+			<parser
+				displayName="TXT-DAT"
+				id         ="TXT-DAT"
+			>
+				<function
+					mainExpr="\s#\K(todo:|varid|macro|textid|roomid|objectid|threadid|actionid|randomid|itemid|npcid|structid
+					|systext|commands|color|privateconfig|gamesetup).*?(?=;|\n)"
+				>
+					<functionName>
+						<nameExpr expr=".*" />
+					</functionName>
+				</function>
+			</parser>
+	</functionList>
+</NotepadPlus>
