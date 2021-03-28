@@ -2,7 +2,7 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
 <NotepadPlus>
 	<AutoComplete language="TXT-DAT">
-    <Environment ignoreCase="yes" startFunc="?" stopFunc=" " paramSeparator="," terminal=";" additionalWordChar="#" />
+    <Environment ignoreCase="yes" startFunc="?" stopFunc="" paramSeparator="," terminal="" additionalWordChar="" />
 		<KeyWord name="key" />
 		<KeyWord name="sit" />
 		<KeyWord name="end" />
