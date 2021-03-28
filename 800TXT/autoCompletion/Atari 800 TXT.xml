@@ -1,7 +1,7 @@
-<!-- Notepad++ AutoComplete 800TXT v1.0 -->
+<!-- Notepad++ AutoComplete Atari 800 TXT v1.0 -->
 <?xml version="1.0" encoding="Windows-1252" ?>
 <NotepadPlus>
-	<AutoComplete language="TXT-DAT">
+	<AutoComplete language="Atari 800 TXT">
     <Environment ignoreCase="yes" startFunc="?" stopFunc="" paramSeparator="," terminal="" additionalWordChar="" />
 		<KeyWord name="key" />
 		<KeyWord name="sit" />
