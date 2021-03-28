@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<NotepadPlus>
+	<AutoComplete language="TXT-DAT">
+    <Environment ignoreCase="yes" startFunc="?" stopFunc=" " paramSeparator="," terminal=";" additionalWordChar="#" />
+		<KeyWord name="key" />
+		<KeyWord name="sit" />
+		<KeyWord name="end" />
+		<KeyWord name="run" />
+		<KeyWord name="restart" />
+		<KeyWord name="if" />
+		<KeyWord name="fi" />
+		<KeyWord name="cls" />
+		<KeyWord name="fill" />
+		<KeyWord name="quit" />
+		<KeyWord name="id" />
+		<KeyWord name="loc" />
+		<KeyWord name="nam" />
+		<KeyWord name="sinf" />
+		<KeyWord name="linf" />
+		<KeyWord name="des" />
+		<KeyWord name="use" />
+		<KeyWord name="meet" />
+		<KeyWord name="rnd" />
+		<KeyWord name="take" />
+		<KeyWord name="sinf" func="yes">
+      <Overload retVal="" descr="definovanie objektu&#x0a;sinf=meno - kratky popis objektu, ktory sa objavuje v popise miestnosti&#x0a;pouzitie sinf/linf sa nastavuje v konfiguracii story.dat"></Overload>
+		</KeyWord>
+		<KeyWord name="linf" func="yes">
+      <Overload retVal="" descr="definovanie objektu&#x0a;linf=text - popis objektu, ktory sa objavuje v popise miestnosti (len pre objekty so stavom 3)&#x0a;da sa definovat viackrat po sebe&#x0a;pouzitie sinf/linf sa nastavuje v konfiguracii story.dat"></Overload>
+		</KeyWord>
+		<KeyWord name="des" func="yes">
+      <Overload retVal="" descr="definovanie objektu&#x0a;des=text - popis objektu, text pre prikaz preskumaj&#x0a;da sa definovat viackrat po sebe"></Overload>
+		</KeyWord>
+		<KeyWord name="nam" func="yes">
+      <Overload retVal="" descr="definovanie objektu&#x0a;nam=meno - meno objektu na ktore bude reagovat&#x0a;da sa definovat viackrat po sebe (synonyma)"></Overload>
+		</KeyWord>
+		<KeyWord name="id" func="yes">
+      <Overload retVal="" descr="definovanie objektu,miestnosti,skriptu&#x0a;id=N - N je identifikator 1-255&#x0a;definicia objektu konci zaciatkom definovania novejho objektu&#x0a;definicia miestnosti a skriptu konci znakom #"></Overload>
+		</KeyWord>
+		<KeyWord name="meet" func="yes">
+      <Overload retVal="" descr="definovanie objektu&#x0a;meet=M,L&#x0a;M je ID skriptu ktory sa spusti pri stretnuti&#x0a;L je ID skriptu ktory sa spusti pri opusteni"></Overload>
+		</KeyWord>
+		<KeyWord name="take" func="yes">
+      <Overload retVal="" descr="definovanie objektu&#x0a;take=T,P&#x0a;T je ID skriptu ktory sa spusti pri zobrati&#x0a;P je ID skriptu ktory sa spusti pri polozeni"></Overload>
+		</KeyWord>
+		<KeyWord name="use" func="yes">
+      <Overload retVal="" descr="definovanie objektu&#x0a;use=U,E&#x0a;U je ID skriptu ktory sa spusti pri pouziti&#x0a;E je ID skriptu ktory sa spusti pri preskumani"></Overload>
+		</KeyWord>
+		<KeyWord name="loc" func="yes">
+      <Overload retVal="" descr="definovanie objektu&#x0a;loc=L,C&#x0a;L je ID umiestnenia objektu (0 - tvoj inv)&#x0a;C stav objektu:&#x0a;0 - mrtvy objekt&#x0a;1 - neobjaveny objekt&#x0a;2 - dekoracia&#x0a;3 - zobratelny predmet"></Overload>
+		</KeyWord>
+		<KeyWord name="eq" func="yes">
+      <Overload retVal="" descr="pouziva sa pri vlastnych zadefinovanych prikazoch na detekciu predmetu&#x0a;pre prikaz zapni je definovany urcity skript a v nom sa cez &quot;eq=tlacitko&quot; da identifikovat zadany predmet&#x0a;$o bude obsahovat ID identifikovaneho objektu pripadne $e vzdialenost zadaneho textu k pozadovanemu textu"></Overload>
+		</KeyWord>
+		<KeyWord name="rnd" func="yes">
+      <Overload retVal="" descr="rndN generator nahodnych cisiel z inervalu 1-N"></Overload>
+		</KeyWord>
+		<KeyWord name="x" func="yes">
+      <Overload retVal="" descr="x710,48 - poke 710,48"></Overload>
+		</KeyWord>
+		<KeyWord name="fb" func="yes">
+      <Overload retVal="" descr="fb=15 fade efekt pozadia pisma na zadanu hodnotu"></Overload>
+		</KeyWord>
+		<KeyWord name="fp" func="yes">
+      <Overload retVal="" descr="fp=15 fade efekt pisma na zadanu hodnotu"></Overload>
+		</KeyWord>
+		<KeyWord name="ol" func="yes">
+      <Overload retVal="" descr="olN=X poziciu objektu N nastav na X (0 je tvoj inventar)"></Overload>
+		</KeyWord>
+		<KeyWord name="oc" func="yes">
+      <Overload retVal="" descr="ocN=X stav objektu N nastav na X&#x0a;0 - mrtvy objekt&#x0a;1 - neobjaveny objekt&#x0a;2 - dekoracia&#x0a;3 - zobratelny predmet"></Overload>
+		</KeyWord>
+		<KeyWord name="quit" func="yes">
+      <Overload retVal="" descr="ukonci hru a spusti outro"></Overload>
+		</KeyWord>
+		<KeyWord name="c" func="yes">
+      <Overload retVal="" descr="c=text zobrazeny v command line, pocas cakania na klavesu key0"></Overload>
+		</KeyWord>
+		<KeyWord name="w" func="yes">
+      <Overload retVal="" descr="caka 100ms"></Overload>
+		</KeyWord>
+		<KeyWord name="q" func="yes">
+      <Overload retVal="" descr="efekt zemetrasenia"></Overload>
+		</KeyWord>
+		<KeyWord name="f" func="yes">
+      <Overload retVal="" descr="efekt zablesku"></Overload>
+		</KeyWord>
+		<KeyWord name="cls" func="yes">
+      <Overload retVal="" descr="zmazanie obrazovky&#x0a;existuje 6 variantov:&#x0a;Cls1 - zmaze obrazovku dohora (kurzor nastavi na 1 riadok)&#x0a;Cls2 - zmaze obrazovku dodola&#x0a;Cls3 - Zmaze obrazovku doprava&#x0a;Cls4 - Zmaze obrazovku dolava&#x0a;Cls5 - zmaze obrazovku bez efektu (kurzor nastavi na 1 riadok)&#x0a;Cls6 - zmaze obrazovku bez efektu"></Overload>
+		</KeyWord>
+		<KeyWord name="fill" func="yes">
+      <Overload retVal="" descr="vyplnenie obrazovky zo stredu zadanym znakom&#x0a;moznosti fill128 alebo fill=128"></Overload>
+		</KeyWord>
+		<KeyWord name="if" func="yes">
+      <Overload retVal="" descr="zaciatok podmienky (if ... fi)&#x0a;je mozne pouzit 4 operatory =#><"></Overload>
+		</KeyWord>
+		<KeyWord name="fi" func="yes">
+      <Overload retVal="" descr="koniec podmienky (if ... fi)&#x0a;je mozne pouzit 4 operatory =#><"></Overload>
+		</KeyWord>
+		<KeyWord name="key" func="yes">
+      <Overload retVal="" descr="caka na stisnutie klavesy&#x0a;varianta Key0 vypne dafaultne prepisovanie command line, ktore je mozne upravit cez c=newText"></Overload>
+		</KeyWord>
+		<KeyWord name="sit" func="yes">
+      <Overload retVal="" descr="vypis aktualnej situacie"></Overload>
+		</KeyWord>
+		<KeyWord name="end" func="yes">
+      <Overload retVal="" descr="ukoncenie skriptu"></Overload>
+		</KeyWord>
+		<KeyWord name="run" func="yes">
+      <Overload retVal="" descr="spustenie skriptu (bez moznosti navratu, ide o formu GOTO)"></Overload>
+		</KeyWord>
+		<KeyWord name="restart" func="yes">
+      <Overload retVal="" descr="restart hry, de facto cold restart"></Overload>
+		</KeyWord>
+  </AutoComplete>
+</NotepadPlus>
