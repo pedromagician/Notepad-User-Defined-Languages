@@ -9,7 +9,7 @@
 <NotepadPlus>
 	<functionList>
 			<!-- ===================================================== [ Atari 800 TXT ] -->
-			<!-- Atari 800 TXT v1.0                                                      -->
+			<!-- Atari 800 TXT v1.1                                                      -->
 
 			<parser
 				displayName="Atari 800 TXT"
@@ -17,7 +17,7 @@
 			>
 
 				<function
-					mainExpr="\s(id=|;!)\K.+?(?=\n)"
+					mainExpr="\s(id=|nam=|;!)\K.+?(?=\n)"
 				>
 					<functionName>
 						<funcNameExpr expr=".*" />
