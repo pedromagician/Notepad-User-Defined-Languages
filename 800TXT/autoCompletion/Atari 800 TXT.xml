@@ -14,26 +14,26 @@
 		<KeyWord name="fill" />
 		<KeyWord name="quit" />
 		<KeyWord name="id" />
-		<KeyWord name="loc" />
-		<KeyWord name="nam" />
-		<KeyWord name="sinf" />
-		<KeyWord name="linf" />
-		<KeyWord name="des" />
+		<KeyWord name="location" />
+		<KeyWord name="name" />
+		<KeyWord name="sinfo" />
+		<KeyWord name="linfo" />
+		<KeyWord name="description" />
 		<KeyWord name="use" />
 		<KeyWord name="meet" />
 		<KeyWord name="rnd" />
 		<KeyWord name="take" />
-		<KeyWord name="sinf" func="yes">
+		<KeyWord name="sinfo" func="yes">
       <Overload retVal="" descr="definovanie objektu&#x0a;sinf=meno - kratky popis objektu, ktory sa objavuje v popise miestnosti&#x0a;pouzitie sinf/linf sa nastavuje v konfiguracii story.dat"></Overload>
 		</KeyWord>
-		<KeyWord name="linf" func="yes">
+		<KeyWord name="linfo" func="yes">
       <Overload retVal="" descr="definovanie objektu&#x0a;linf=text - popis objektu, ktory sa objavuje v popise miestnosti (len pre objekty so stavom 3)&#x0a;da sa definovat viackrat po sebe&#x0a;pouzitie sinf/linf sa nastavuje v konfiguracii story.dat"></Overload>
 		</KeyWord>
-		<KeyWord name="des" func="yes">
-      <Overload retVal="" descr="definovanie objektu&#x0a;des=text - popis objektu, text pre prikaz preskumaj&#x0a;da sa definovat viackrat po sebe"></Overload>
+		<KeyWord name="description" func="yes">
+      <Overload retVal="" descr="definovanie objektu&#x0a;description=text - popis objektu, text pre prikaz preskumaj&#x0a;da sa definovat viackrat po sebe"></Overload>
 		</KeyWord>
-		<KeyWord name="nam" func="yes">
-      <Overload retVal="" descr="definovanie objektu&#x0a;nam=meno - meno objektu na ktore bude reagovat&#x0a;da sa definovat viackrat po sebe (synonyma)"></Overload>
+		<KeyWord name="name" func="yes">
+      <Overload retVal="" descr="definovanie objektu&#x0a;name=meno - meno objektu na ktore bude reagovat&#x0a;da sa definovat viackrat po sebe (synonyma)"></Overload>
 		</KeyWord>
 		<KeyWord name="id" func="yes">
       <Overload retVal="" descr="definovanie objektu,miestnosti,skriptu&#x0a;id=N - N je identifikator 1-255&#x0a;definicia objektu konci zaciatkom definovania novejho objektu&#x0a;definicia miestnosti a skriptu konci znakom #"></Overload>
@@ -47,8 +47,8 @@
 		<KeyWord name="use" func="yes">
       <Overload retVal="" descr="definovanie objektu&#x0a;use=U,E&#x0a;U je ID skriptu ktory sa spusti pri pouziti&#x0a;E je ID skriptu ktory sa spusti pri preskumani"></Overload>
 		</KeyWord>
-		<KeyWord name="loc" func="yes">
-      <Overload retVal="" descr="definovanie objektu&#x0a;loc=L,C&#x0a;L je ID umiestnenia objektu (0 - tvoj inv)&#x0a;C stav objektu:&#x0a;0 - mrtvy objekt&#x0a;1 - neobjaveny objekt&#x0a;2 - dekoracia&#x0a;3 - zobratelny predmet"></Overload>
+		<KeyWord name="location" func="yes">
+      <Overload retVal="" descr="definovanie objektu&#x0a;location=L,C&#x0a;L je ID umiestnenia objektu (0 - tvoj inv)&#x0a;C stav objektu:&#x0a;0 - mrtvy objekt&#x0a;1 - neobjaveny objekt&#x0a;2 - dekoracia&#x0a;3 - zobratelny predmet"></Overload>
 		</KeyWord>
 		<KeyWord name="eq" func="yes">
       <Overload retVal="" descr="pouziva sa pri vlastnych zadefinovanych prikazoch na detekciu predmetu&#x0a;pre prikaz zapni je definovany urcity skript a v nom sa cez &quot;eq=tlacitko&quot; da identifikovat zadany predmet&#x0a;$o bude obsahovat ID identifikovaneho objektu pripadne $e vzdialenost zadaneho textu k pozadovanemu textu"></Overload>
