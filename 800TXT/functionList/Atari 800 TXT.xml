@@ -17,7 +17,7 @@
 			>
 
 				<function
-					mainExpr="\s(id=|nam=|;!)\K.+?(?=\n)"
+					mainExpr="\s(id=|name=|;!)\K.+?(?=\n)"
 				>
 					<functionName>
 						<funcNameExpr expr=".*" />
