@@ -56,14 +56,14 @@
 		<KeyWord name="rnd" func="yes">
       <Overload retVal="" descr="rndN generator nahodnych cisiel z inervalu 1-N"></Overload>
 		</KeyWord>
-		<KeyWord name="x" func="yes">
-      <Overload retVal="" descr="x710,48 - poke 710,48"></Overload>
+		<KeyWord name="poke" func="yes">
+      <Overload retVal="" descr="poke 710,48"></Overload>
 		</KeyWord>
-		<KeyWord name="fb" func="yes">
-      <Overload retVal="" descr="fb=15 fade efekt pozadia pisma na zadanu hodnotu"></Overload>
+		<KeyWord name="background" func="yes">
+      <Overload retVal="" descr="background=15 fade efekt pozadia pisma na zadanu hodnotu"></Overload>
 		</KeyWord>
-		<KeyWord name="fp" func="yes">
-      <Overload retVal="" descr="fp=15 fade efekt pisma na zadanu hodnotu"></Overload>
+		<KeyWord name="pen" func="yes">
+      <Overload retVal="" descr="pen=15 fade efekt pisma na zadanu hodnotu"></Overload>
 		</KeyWord>
 		<KeyWord name="ol" func="yes">
       <Overload retVal="" descr="olN=X poziciu objektu N nastav na X (0 je tvoj inventar)"></Overload>
@@ -74,16 +74,16 @@
 		<KeyWord name="quit" func="yes">
       <Overload retVal="" descr="ukonci hru a spusti outro"></Overload>
 		</KeyWord>
-		<KeyWord name="c" func="yes">
-      <Overload retVal="" descr="c=text zobrazeny v command line, pocas cakania na klavesu key0"></Overload>
+		<KeyWord name="commandline" func="yes">
+      <Overload retVal="" descr="commandLine=text zobrazeny v command line, pocas cakania na klavesu key0"></Overload>
 		</KeyWord>
-		<KeyWord name="w" func="yes">
+		<KeyWord name="wait" func="yes">
       <Overload retVal="" descr="caka 100ms"></Overload>
 		</KeyWord>
-		<KeyWord name="q" func="yes">
+		<KeyWord name="quake" func="yes">
       <Overload retVal="" descr="efekt zemetrasenia"></Overload>
 		</KeyWord>
-		<KeyWord name="f" func="yes">
+		<KeyWord name="flash" func="yes">
       <Overload retVal="" descr="efekt zablesku"></Overload>
 		</KeyWord>
 		<KeyWord name="cls" func="yes">
